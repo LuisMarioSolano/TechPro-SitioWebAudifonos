@@ -2,7 +2,8 @@
 
 This is the design of a Landing Page for Audifonos TechPro [click here](https://audifonostechpromario.netlify.app/)
 
-![screenshot-1683839348304](https://github.com/LuisMarioSolano/TechPro-SitioWebAudifonos/assets/92195194/49ec266b-6f77-4a4d-a13f-5baaa8807a14)
+![image](https://github.com/LuisMarioSolano/TechPro-SitioWebAudifonos/assets/92195194/4ff97db2-51f2-40b2-ba9a-dddd13334762)
+![image](https://github.com/LuisMarioSolano/TechPro-SitioWebAudifonos/assets/92195194/59d4f3e0-f356-43be-8e0e-0ac480dc6710)
+![image](https://github.com/LuisMarioSolano/TechPro-SitioWebAudifonos/assets/92195194/a8dd742c-4c98-439d-ae82-2a8ca279239f)
 
-![screenshot-1683839343553](https://github.com/LuisMarioSolano/TechPro-SitioWebAudifonos/assets/92195194/b78a1d67-bf78-4d78-9507-7c05596dd12f)
-![screenshot-1683839336873](https://github.com/LuisMarioSolano/TechPro-SitioWebAudifonos/assets/92195194/f7e882d0-b2b4-4732-b364-65425f600ba5)
+
